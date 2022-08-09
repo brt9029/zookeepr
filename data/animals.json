@@ -108,6 +108,23 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": "Zany",
+      "id": "11"
+    },
+    {
+      "name": "Tyler",
+      "species": "ostritch",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "12"
     }
   ],
   "animalsArray": [
@@ -219,6 +236,23 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": "Zany",
+      "id": "11"
+    },
+    {
+      "name": "Tyler",
+      "species": "ostritch",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "12"
     }
   ]
 }
