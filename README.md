@@ -4,6 +4,7 @@
 ![brt9029](https://img.shields.io/badge/-html-blueviolet)
 ![brt9029](https://img.shields.io/badge/-css-blue)
 ![brt9029](https://img.shields.io/badge/-bootstrap-orange)
+![brt9029](https://img.shields.io/badge/-jest-red)
 
 ## Description
 - Database created in order to hold information for zookeepers and zoo animals
